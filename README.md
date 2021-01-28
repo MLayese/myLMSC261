@@ -4,7 +4,9 @@
 # Let's Begin
 
 ***A Computer is a clock with benefits*** - Paul Ford
-This section describes how woefully dumb computers are without a human telling it what to do.
+
+This section describes how woefully dumb computers are without a human telling
+it what to do.
 
 # How Do You Type an "A"
 
