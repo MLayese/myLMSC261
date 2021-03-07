@@ -10,6 +10,7 @@ Created a new folder in 'mylmsc261' called 'Pyramid' and created this README.md
 Opened PyCharm CE and creat "Hash.py"
 
 Here's the code
+```
 def hash(p):
    X = 2*p - 2
    for m in range(0, p):
@@ -21,6 +22,8 @@ def hash(p):
       print("\r")
 p = int(input("How tall do you want the pyramid?\n Name any number: "))
 hash(p)
+
+```
 
 Saved it
 
