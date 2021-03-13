@@ -9,3 +9,10 @@ def hash(p):
       print("\r")
 p = int(input("How tall do you want the pyramid?\n Name any number: "))
 hash(p)
+
+rows = int(input("Enter the number of rows: "))
+
+for i in range(rows + 1, 0, -1):
+    for j in range(0, i**2):
+        print("*", end=' ')
+    print()
